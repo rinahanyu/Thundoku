@@ -9,6 +9,6 @@ import { Vue, Component } from 'vue-property-decorator'
 @Component({
   layout!: 'tsundoku'
 })
-export default class Hello extends Vue {
+export default class Tsumu extends Vue {
 }
 </script>
