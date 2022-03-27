@@ -12,7 +12,7 @@
 
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator'
-import Sidebar from "~/components/sidebar.vue"
+import Sidebar from '~/components/sidebar.vue'
 
 @Component({
   components: {
